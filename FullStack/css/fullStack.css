@@ -1,0 +1,35 @@
+body {
+	background-image: url("../images/eclipse02.PNG");
+}
+.hr1 {
+	border-color: #00FFFF;
+	border-width: .5em;
+}
+.hr2 {
+	border-color: #00FFFF;
+	border-width: .2em;
+}
+.IndieFlower {
+	font-family: 'Indie Flower', cursive;
+}
+.Inconsolata {
+	font-family: 'Inconsolata', monospace;
+}
+h1 {
+	text-align: center;
+}
+h2 {
+	text-align: center;
+}
+h3 {
+	text-align: center;
+}
+p {
+	text-align: center;
+}
+img {
+	border: .3em solid #000000;
+}
+.spread {
+	padding: .95em;
+}
